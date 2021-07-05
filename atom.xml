@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://limit_lin.github.io</id>
+    <id>https://limit-house.github.io/blogs/</id>
     <title>limit 的笔记</title>
-    <updated>2021-07-05T05:02:21.696Z</updated>
+    <updated>2021-07-05T11:39:27.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://limit_lin.github.io"/>
-    <link rel="self" href="https://limit_lin.github.io/atom.xml"/>
+    <link rel="alternate" href="https://limit-house.github.io/blogs/"/>
+    <link rel="self" href="https://limit-house.github.io/blogs/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://limit_lin.github.io/images/avatar.png</logo>
-    <icon>https://limit_lin.github.io/favicon.ico</icon>
+    <logo>https://limit-house.github.io/blogs/images/avatar.png</logo>
+    <icon>https://limit-house.github.io/blogs/favicon.ico</icon>
     <rights>All rights reserved 2021, limit 的笔记</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://limit_lin.github.io/post/hello-gridea/</id>
-        <link href="https://limit_lin.github.io/post/hello-gridea/">
+        <id>https://limit-house.github.io/blogs/post/hello-gridea/</id>
+        <link href="https://limit-house.github.io/blogs/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
